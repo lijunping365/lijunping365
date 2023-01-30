@@ -13,8 +13,8 @@ My name is lijunping. I am a software development engineer.
 
 - 🔭 I’m currently striving for a better life in NanJing.
 - 🤔 My blog 👉 https://github.com/lijunping365
-- 💬 Ask me some questions about Effeciency Tools 👉 http://39.105.51.99/
-- 📫 My E-mail: 2544054976#qq.com
+- 💬 My Project Open-Job address 👉 http://39.105.51.99/
+- 📫 My E-mail: 2544054976@qq.com
 - 🔧 My Power Tools: </br>   
   ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
   ![VS IDEA](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
