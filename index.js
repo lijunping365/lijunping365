@@ -13,7 +13,7 @@ const readme = `\
 I'm angola, a new-media editor.
 
 - 🔭 I’m currently striving for a better life in NanJing.
-- 🤔 My blog 👉 https://penghh.fun/
+- 🤔 My blog 👉 https://github.com/lijunping365
 - 💬 Ask me some questions about Effeciency Tools 👉 http://39.105.51.99/
 - 📫 My E-mail: 2544054976#qq.com
 - 🔧 My Power Tools: </br>   
