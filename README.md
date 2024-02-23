@@ -9,7 +9,7 @@ My name is lijunping. I am a software development engineer.
 
 - 🔭 I’m currently striving for a better life in NanJing.
 - 🤔 My blog 👉 http://www.openbytecode.com
-- 💬 My Project Open-Job address 👉 http://openbytecode.com/openJob/front
+- 💬 My Project Open-Job address 👉 http://openbytecode.com/open-job
 - 📫 My E-mail: 2544054976@qq.com
 - 🔧 My Power Tools: </br>   
   ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VS%20Code-blue)     
